@@ -1,0 +1,2 @@
+原文引用：http://gad.qq.com/program/translateview/7188118
+.gitignore规则生成网站：http://gitignore.io/
