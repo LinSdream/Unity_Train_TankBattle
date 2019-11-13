@@ -16,7 +16,6 @@
 
 主要文件目录:
 
-- Bulid:生成的exe文件夹
 - RainbowTower：Unity项目文件夹
   - Assets:资源
     - _Completed：  Tank Battle成品（Unity 官方）
