@@ -12,7 +12,6 @@
 
 中国区id处理：<https://vibrantlink.com/chinacloudpun/>
 
-反应堆参考文献：<https://zhuanlan.zhihu.com/p/38359628>
 
 主要文件目录:
 
